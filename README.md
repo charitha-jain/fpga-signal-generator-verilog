@@ -20,9 +20,10 @@ A basic signal generator module written in Verilog, implemented on an FPGA board
 ## 🖼️ Demo Output
 ### RTL Schematic
 > ## 🖼️ RTL Schematic
-
 ![RTL Schematic](images/rtl_schematic.png)
-
+> ## output from Spartan3 kit
+![RTL Schematic](images/fpga_kit_output_1.png)
+![RTL Schematic](images/fpga_kit_output_2.png)
 
 ### FPGA LED Output
 - **Square Wave**: LEDs blink ON/OFF
