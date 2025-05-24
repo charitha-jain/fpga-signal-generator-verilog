@@ -26,8 +26,8 @@ A basic signal generator module written in Verilog, implemented on an FPGA board
 ![RTL Schematic](images/fpga_kit_output_2.png)
 
 ### FPGA LED Output
-- **Square Wave**: LEDs blink ON/OFF
+- **Square Wave**: LEDs blink ON/OFF 11111111 ↔ 00000000 pattern
 - **Rectangular Wave**: Alternating 10101010 ↔ 01010101 pattern
-- **Triangle Wave**: Incremental LED brightness
+- **Triangle Wave**: Incremental LED counts
 
 
