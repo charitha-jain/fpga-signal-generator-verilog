@@ -17,7 +17,7 @@ A basic signal generator module written in Verilog, implemented on an FPGA board
 - **Clock Divider**: 24-bit, slow_clk derived from clk[23]
 - **Wave Output**: 8-bit LEDs
 
-## 🖼️ Demo Output
+## 🖼️ Output
 ### RTL Schematic
 > ## 🖼️ RTL Schematic
 ![RTL Schematic](images/rtl_schematic.png)
