@@ -2,7 +2,7 @@
 
 A basic signal generator module written in Verilog, implemented on an FPGA board. This project was developed as part of an experiential learning course in the ECE department at Cambridge Institute of Technology.
 
-## 🎯 Features
+## Features
 - 3 waveform modes:
   - `00` → Square wave
   - `01` → Rectangular wave (10101010 ↔ 01010101)
@@ -11,15 +11,15 @@ A basic signal generator module written in Verilog, implemented on an FPGA board
 - Switch-selectable waveform modes
 - Synchronous reset functionality
 
-## 🔧 Technical Details
+## Technical Details
 - **Language**: Verilog
 - **FPGA Tool**: Xilinx
 - **Clock Divider**: 24-bit, slow_clk derived from clk[23]
 - **Wave Output**: 8-bit LEDs
 
-## 🖼️ Output
+## Output
 ### RTL Schematic
-> ## 🖼️ RTL Schematic
+> ## RTL Schematic
 ![RTL Schematic](images/rtl_schematic.png)
 > ## output from Spartan3 kit
 ![RTL Schematic](images/fpga_kit_output_1.png)
